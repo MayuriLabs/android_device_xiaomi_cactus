@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_kernel_xiaomi_mt6762m",
+    "target_path": "kernel/xiaomi/mt6762m"
+  }
+]
