@@ -1,6 +1,10 @@
 [
-  {
-    "repository": "android_kernel_xiaomi_mt6762m",
-    "target_path": "kernel/xiaomi/mt6762m"
-  }
+ {
+   "repository": "proprietary_vendor_xiaomi_cactus",
+   "target_path": "vendor/xiaomi"
+ },
+ {
+   "repository": "android_kernel_xiaomi_mt6765",
+   "target_path": "kernel/xiaomi/mt6765"
+ }
 ]
