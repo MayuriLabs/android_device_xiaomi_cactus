@@ -3,7 +3,7 @@
 
 # Kernel
 # TARGET_KERNEL_CONFIG := cactus_defconfig
-TARGET_PREBUILT_KERNEL := device/xiaomi/cactus/prebuilt/kernel
+TARGET_PREBUILT_KERNEL := kernel/xiaomi/mt6765
 
 # SEPolicy
 BOARD_SEPOLICY_DIRS := \
