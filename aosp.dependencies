@@ -1,0 +1,22 @@
+[
+ {
+   "repository": "proprietary_vendor_xiaomi_cactus",
+   "target_path": "vendor/xiaomi"
+ },
+ {
+   "repository": "android_kernel_xiaomi_mt6765",
+   "target_path": "kernel/xiaomi/mt6765"
+ }
+ {
+   "repository": "platform_frameworks_opt_telephony",
+   "target_path": "frameworks/opt"
+ },
+ {
+   "repository": "android_vendor_interfaces",
+   "target_path": "vendor"
+ },
+ {
+   "repository": "android_device_xiaomi_mt6765-common",
+   "target_path": "device/xiaomi"
+ },
+]
