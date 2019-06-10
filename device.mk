@@ -23,6 +23,10 @@ PRODUCT_COPY_FILES +=  \
     $(LOCAL_PATH)/bluetooth/mtk_bt_fw.conf:system/etc/bluetooth/mtk_bt_fw.conf \
     $(LOCAL_PATH)/bluetooth/mtk_bt_stack.conf:system/etc/bluetooth/mtk_bt_stack.conf \
     $(LOCAL_PATH)/bluetooth/wt_bt_stack.conf:system/etc/bluetooth/wt_bt_stack.conf
+
+# Face detection extension
+PRODUCT_PACKAGES += \
+    org.codeaurora.camera
     
 # Public Libraries
 PRODUCT_COPY_FILES +=  \
