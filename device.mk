@@ -5,6 +5,10 @@ $(call inherit-product, device/xiaomi/mt6765-common/mt6765.mk)
 $(call inherit-product-if-exists, vendor/xiaomi/mt6765-common/mt6765-common-vendor.mk)
 $(call inherit-product-if-exists, vendor/xiaomi/cactus/cactus-vendor.mk)
 
+# Overlay
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay
+
 # Audio
 PRODUCT_COPY_FILES +=  \
     $(LOCAL_PATH)/audio/a2dp_audio_policy_configuration.xml:system/etc/a2dp_audio_policy_configuration.xml \
