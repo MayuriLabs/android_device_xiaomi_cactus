@@ -1,4 +1,4 @@
-[![Build Status](http://3.90.92.204:8080/buildStatus/icon?job=project1)](http://3.90.92.204:8080/job/project1/)
+[![Build Status](https://jenkins.wulan17.gq/buildStatus/icon?job=project1)](https://jenkins.wulan17.gq/job/project1/)
 
 Device Tree for Xiaomi Redmi 6a (Cactus)
 ================================================================
