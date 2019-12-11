@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_cactus.mk
+    $(LOCAL_DIR)/aosip_cactus.mk
