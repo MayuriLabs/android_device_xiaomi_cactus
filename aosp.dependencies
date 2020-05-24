@@ -13,8 +13,8 @@
   },
   {
   	"remote": "github",
-  	"repository": "xiaomi-mt6765/proprietary_vendor_xiaomi",
+  	"repository": "wulan17/proprietary_vendor_xiaomi",
   	"target_path": "vendor/xiaomi",
-  	"branch": "lineage-17.1"
+  	"branch": "dev/ten"
   }
 ]
