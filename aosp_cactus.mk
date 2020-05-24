@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019 The LineageOS Project
+# Copyright (C) 2020 The AospExtended Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -17,12 +17,12 @@
 # Inherit from device
 $(call inherit-product, device/xiaomi/cactus/device.mk)
 
-# Inherit some common Lineage stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit some common AospExtended stuff.
+$(call inherit-product, vendor/aosp/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := cactus
-PRODUCT_NAME := lineage_cactus
+PRODUCT_NAME := aosp_cactus
 PRODUCT_BRAND := xiaomi
 PRODUCT_MODEL := Redmi 6A
 PRODUCT_MANUFACTURER := Xiaomi
