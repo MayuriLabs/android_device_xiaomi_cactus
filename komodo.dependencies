@@ -16,5 +16,11 @@
   	"repository": "xiaomi-mt6765/proprietary_vendor_xiaomi",
   	"target_path": "vendor/xiaomi",
   	"branch": "lineage-17.1"
+  },
+  {
+  	"remote": "github",
+  	"repository": "wulan17/linaro_arm-linux-gnueabihf-7.5",
+  	"target_path": "prebuilts/gcc/linux-x86/arm/arm-linux-gnueabihf-7.5",
+  	"branch": "master"
   }
 ]
