@@ -3,13 +3,13 @@
   	"remote": "github",
   	"repository": "wulan17/android_device_xiaomi_mt6765-common",
   	"target_path": "device/xiaomi/mt6765-common",
-  	"branch": "ten"
+  	"branch": "staging/11"
   },
   {
   	"remote": "github",
-  	"repository": "wulan17/android_kernel_xiaomi_mt6765",
+  	"repository": "xiaomi-mt6765/android_kernel_xiaomi_mt6765",
   	"target_path": "kernel/xiaomi/mt6765",
-  	"branch": "ten"
+  	"branch": "lineage-18.0"
   },
   {
   	"remote": "github",
