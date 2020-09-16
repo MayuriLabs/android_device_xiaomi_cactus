@@ -20,7 +20,7 @@ $(call inherit-product, device/xiaomi/cactus/device.mk)
 # Inherit some common Komodo OS stuff.
 $(call inherit-product, vendor/komodo/config/common_full_phone.mk)
 CURRENT_BUILD_TYPE := nogapps
-KOMODO_VARIANT := RELEASE
+KOMODO_VARIANT := BETA
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := cactus
