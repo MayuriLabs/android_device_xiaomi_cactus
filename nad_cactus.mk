@@ -23,6 +23,9 @@ $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 # Official tag
 NAD_BUILD_TYPE := OFFICIAL
 
+# Boot animaton
+TARGET_BOOT_ANIMATION_RES := 720
+
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := cactus
 PRODUCT_NAME := nad_cactus
